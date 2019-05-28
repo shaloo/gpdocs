@@ -55,7 +55,10 @@ on_rtd = os.environ.get('READTHEDOCS') == 'True'
 if on_rtd:
     html_theme = 'default'
 else:
-    html_theme = 'nature'
+    html_theme = 'sphinx_rtd_theme'
+    master_doc = 'index'
+
+html_logo = 'img/genpipes-doc-img.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
