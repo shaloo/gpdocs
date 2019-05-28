@@ -42,6 +42,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -56,7 +57,6 @@ if on_rtd:
     html_theme = 'default'
 else:
     html_theme = 'sphinx_rtd_theme'
-    master_doc = 'index'
 
 html_logo = 'img/genpipes-doc-img.png'
 
