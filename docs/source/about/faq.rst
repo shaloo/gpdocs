@@ -4,7 +4,7 @@ GenPipes FAQ
 ============
 
 
-This document will contain frequently asked queries categorised as follows:
+This document will contain frequently asked queries categorized as follows:
 
 General
 -------

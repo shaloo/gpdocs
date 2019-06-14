@@ -3,7 +3,7 @@
 What is GenPipes?
 =================
 
-GenPipes is open sourceed, flexible, scalable Python-based framework that facilitates
+GenPipes is an open source, flexible, scalable Python-based framework that facilitates
 the development and deployment of multi-step computational workflows. These workflows
 are optimized for High-Performance Computing (HPC) clusters and the cloud.
 
@@ -22,7 +22,7 @@ GenPipes offers 12 validated and scalable pipelines for the following genomics a
 GenPipes Features
 -----------------
 * Multiple Schedulers
-  - GenPipes is optimized for HPC processing. Currently, it supports 4 schedulers - slurm, PBS/Torque, Batch, Daemon.
+  - GenPipes is optimized for HPC processing. Currently, it supports 4 schedulers - Slurm, PBS/Torque, Batch, Daemon.
 
 * Optimal Job Execution Time
   - GenPipes minimizes overall job analysis time by job dependency model that leverages job parallelism. This enables jobs to become active and executed as soon as the dependencies are met.
@@ -50,4 +50,4 @@ open source `Sphinx <http://www.sphinx-doc.org>`_ and `ReadTheDocs
 <https://readthedocs.org/>`_ tools.
 
 .. note:: You can contribute to Godot's documentation by
-          GENPIPES_DOCS_TBD - We need to describe the GenPipes documenation contribution policy here.
+          GENPIPES_DOCS_TBD - We need to describe the GenPipes documentation contribution policy here.

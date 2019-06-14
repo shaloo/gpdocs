@@ -8,7 +8,7 @@ GenPipes documentation is continually being improved. The release of version  x.
 
 GENPIPES_DOC_TBD
 
-Documenation Changes
---------------------
+Documentation Changes
+---------------------
 
-- :ref:`GenPipes New Documenation Architecture Map<docs_genpipes_archmap>`
+- :ref:`GenPipes New Documentation Architecture Map<docs_genpipes_archmap>`

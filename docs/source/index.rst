@@ -14,7 +14,7 @@ The table of contents below and in the sidebar should let you easily access the
 documentation for your topic of interest. You can also use the search function
 in the top left corner.
 
-.. note:: GenPipes is sponsored by Canadian Centre for Computational Genomics (C3G).
+.. note:: GenPipes is sponsored by Canadian Center for Computational Genomics (C3G).
           C3G provides bioinformatics analysis and HPC services for the life science
 	  research community. It has created a distributed innovation node with broad
           expertise in bioinformatics, providing customized and case-by-case analysis
