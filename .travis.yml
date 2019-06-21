@@ -1,5 +1,7 @@
 language:
 -  python
+os:
+- osx
 branches:
   only:
   - master
