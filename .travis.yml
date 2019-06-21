@@ -1,0 +1,14 @@
+language: python
+branches:
+  only:
+  - master
+python:
+- "3.6"
+#command to install dependencies
+install: "pip install -q -r requirements.txt --use-mirrors"
+#command to check spelling
+script:
+- make spelling
+#command to make html docs
+script:
+- make html
