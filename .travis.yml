@@ -6,10 +6,10 @@ branches:
 python:
 - "3.6"
 #command to install dependencies
-install: "pip install -q -r requirements.txt"
+install: "pip install -q -r docs/requirements.txt"
 #command to check spelling
 script:
-- make spelling
+- sphinx-build -b spelling docs/source build
 #command to make html docs
 script:
-- make html
+- sphinx-build -b spelling docs/source build
