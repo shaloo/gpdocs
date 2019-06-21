@@ -1,4 +1,4 @@
-Python==3.6.8
+Python==2.7.10
 Sphinx==1.8.5
 sphinx_rtd_theme==0.4.3
 pyenchant==2.0.0
