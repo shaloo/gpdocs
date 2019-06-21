@@ -4,7 +4,7 @@ branches:
   only:
   - master
 python:
-- "2.7"
+- "2.7.10"
 #command to install dependencies
 install: "pip install -q -r docs/requirements.txt"
 #command to check spelling
