@@ -9,4 +9,4 @@ mock==1.1.1
 sphinx-tabs==1.1.11
 sphinxcontrib-spelling==4.2.1
 imagesize==0.7.1
-Pillow==6.2.0
+Pillow==6.2.2
