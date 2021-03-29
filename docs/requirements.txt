@@ -2,7 +2,7 @@ Python==3.6
 Sphinx==1.8.5
 sphinx_rtd_theme==0.4.3
 pyenchant==2.0.0
-Pygments==2.3.1
+Pygments==2.7.4
 setuptools==41.0.1
 docutils==0.14
 mock==1.1.1
